@@ -1,0 +1,4 @@
+base = "https://fleetinglore.github.io/math-up"
+css = "https://fleetinglore.github.io/css/style.css"
+from_lore = "static"
+to_html = "docs"
